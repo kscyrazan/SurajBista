@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.surajbista.com/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.surajbista.com/src/profile.jpg</image:loc>
+      <image:title>Suraj Bista - Cinematographer and Editor</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.surajbista.com/work.html</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.surajbista.com/about.html</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.surajbista.com/src/profile.jpg</image:loc>
+      <image:title>Suraj Bista - Cinematographer and Editor, Denver Colorado</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.surajbista.com/contact.html</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
